@@ -1,0 +1,14 @@
+C:\Users\allan.ssilva4\source\repos\ExerciciosTI14T\ExerciciosTI14T\bin\Debug\ExerciciosTI14T.exe.config
+C:\Users\allan.ssilva4\source\repos\ExerciciosTI14T\ExerciciosTI14T\bin\Debug\ExerciciosTI14T.exe
+C:\Users\allan.ssilva4\source\repos\ExerciciosTI14T\ExerciciosTI14T\bin\Debug\ExerciciosTI14T.pdb
+C:\Users\allan.ssilva4\source\repos\ExerciciosTI14T\ExerciciosTI14T\obj\Debug\ExerciciosTI14T.csproj.AssemblyReference.cache
+C:\Users\allan.ssilva4\source\repos\ExerciciosTI14T\ExerciciosTI14T\obj\Debug\ExerciciosTI14T.csproj.CoreCompileInputs.cache
+C:\Users\allan.ssilva4\source\repos\ExerciciosTI14T\ExerciciosTI14T\obj\Debug\ExerciciosTI14T.exe
+C:\Users\allan.ssilva4\source\repos\ExerciciosTI14T\ExerciciosTI14T\obj\Debug\ExerciciosTI14T.pdb
+C:\Users\bruno.rmenocci\Downloads\ExerciciosTI14T\ExerciciosTI14T\bin\Debug\ExerciciosTI14T.exe.config
+C:\Users\bruno.rmenocci\Downloads\ExerciciosTI14T\ExerciciosTI14T\bin\Debug\ExerciciosTI14T.exe
+C:\Users\bruno.rmenocci\Downloads\ExerciciosTI14T\ExerciciosTI14T\bin\Debug\ExerciciosTI14T.pdb
+C:\Users\bruno.rmenocci\Downloads\ExerciciosTI14T\ExerciciosTI14T\obj\Debug\ExerciciosTI14T.csproj.AssemblyReference.cache
+C:\Users\bruno.rmenocci\Downloads\ExerciciosTI14T\ExerciciosTI14T\obj\Debug\ExerciciosTI14T.csproj.CoreCompileInputs.cache
+C:\Users\bruno.rmenocci\Downloads\ExerciciosTI14T\ExerciciosTI14T\obj\Debug\ExerciciosTI14T.exe
+C:\Users\bruno.rmenocci\Downloads\ExerciciosTI14T\ExerciciosTI14T\obj\Debug\ExerciciosTI14T.pdb

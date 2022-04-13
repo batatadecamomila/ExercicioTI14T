@@ -1,0 +1,21 @@
+T:\Publica\BRUNO RODRIGUES\source\repos\CalculadoraTI14T\CalculadoraTI14T\bin\Debug\CalculadoraTI14T.exe.config
+T:\Publica\BRUNO RODRIGUES\source\repos\CalculadoraTI14T\CalculadoraTI14T\bin\Debug\CalculadoraTI14T.exe
+T:\Publica\BRUNO RODRIGUES\source\repos\CalculadoraTI14T\CalculadoraTI14T\bin\Debug\CalculadoraTI14T.pdb
+T:\Publica\BRUNO RODRIGUES\source\repos\CalculadoraTI14T\CalculadoraTI14T\obj\Debug\CalculadoraTI14T.csproj.AssemblyReference.cache
+T:\Publica\BRUNO RODRIGUES\source\repos\CalculadoraTI14T\CalculadoraTI14T\obj\Debug\CalculadoraTI14T.csproj.CoreCompileInputs.cache
+T:\Publica\BRUNO RODRIGUES\source\repos\CalculadoraTI14T\CalculadoraTI14T\obj\Debug\CalculadoraTI14T.exe
+T:\Publica\BRUNO RODRIGUES\source\repos\CalculadoraTI14T\CalculadoraTI14T\obj\Debug\CalculadoraTI14T.pdb
+C:\Users\bruno.rmenocci\Downloads\BRUNO RODRIGUES\source\repos\CalculadoraTI14T\CalculadoraTI14T\obj\Debug\CalculadoraTI14T.csproj.AssemblyReference.cache
+C:\Users\bruno.rmenocci\Downloads\BRUNO RODRIGUES\source\repos\CalculadoraTI14T\CalculadoraTI14T\obj\Debug\CalculadoraTI14T.csproj.CoreCompileInputs.cache
+C:\Users\bruno.rmenocci\Downloads\BRUNO RODRIGUES\source\repos\CalculadoraTI14T\CalculadoraTI14T\obj\Debug\CalculadoraTI14T.exe
+C:\Users\bruno.rmenocci\Downloads\BRUNO RODRIGUES\source\repos\CalculadoraTI14T\CalculadoraTI14T\obj\Debug\CalculadoraTI14T.pdb
+C:\Users\bruno.rmenocci\Downloads\BRUNO RODRIGUES\source\repos\CalculadoraTI14T\CalculadoraTI14T\bin\Debug\CalculadoraTI14T.exe.config
+C:\Users\bruno.rmenocci\Downloads\BRUNO RODRIGUES\source\repos\CalculadoraTI14T\CalculadoraTI14T\bin\Debug\CalculadoraTI14T.exe
+C:\Users\bruno.rmenocci\Downloads\BRUNO RODRIGUES\source\repos\CalculadoraTI14T\CalculadoraTI14T\bin\Debug\CalculadoraTI14T.pdb
+T:\Publica\VINI\source\repos\CalculadoraTI14T\CalculadoraTI14T\obj\Debug\CalculadoraTI14T.csproj.AssemblyReference.cache
+T:\Publica\VINI\source\repos\CalculadoraTI14T\CalculadoraTI14T\obj\Debug\CalculadoraTI14T.csproj.CoreCompileInputs.cache
+T:\Publica\VINI\source\repos\CalculadoraTI14T\CalculadoraTI14T\obj\Debug\CalculadoraTI14T.exe
+T:\Publica\VINI\source\repos\CalculadoraTI14T\CalculadoraTI14T\obj\Debug\CalculadoraTI14T.pdb
+T:\Publica\VINI\source\repos\CalculadoraTI14T\CalculadoraTI14T\bin\Debug\CalculadoraTI14T.exe.config
+T:\Publica\VINI\source\repos\CalculadoraTI14T\CalculadoraTI14T\bin\Debug\CalculadoraTI14T.exe
+T:\Publica\VINI\source\repos\CalculadoraTI14T\CalculadoraTI14T\bin\Debug\CalculadoraTI14T.pdb
